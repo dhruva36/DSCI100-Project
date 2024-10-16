@@ -14,4 +14,10 @@ Through this analysis, we aim to explore whether these factors are significant p
 
 ---
 
+**Team Members:**
+
+- Dhruva Devaraaj
+- Amber Xia
+- Tricia Jalen
+
 **Date of Completion:** February, 2023
